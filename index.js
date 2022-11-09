@@ -5,7 +5,7 @@ var username = document.getElementById("username").value;
 // var password = document.getElementById("password").value;
 if ( username == "210018001734" ){
 
-window.location = "result.html"; // Redirecting to other page.
+window.location = "https://drive.google.com/file/d/1-OfnIB1gC5C2SFxJg5BgdevAw60NwtzJ/view"; // Redirecting to other page.
 return false;
 }
 else{
