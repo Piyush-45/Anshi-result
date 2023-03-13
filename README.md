@@ -1,4 +1,4 @@
-<h1>FilmFrezy
+<h1 class="alignt-center text-red-900">FilmFrezy
 </h1>
 
 FilmFrezy is a web application for movie streaming that is built using HTML5, Tailwind CSS, ReactJS, and Firebase for the backend. The data for the movies is fetched from TMDB API. The application has a frontend that allows users to see movies based on their interests. It has three rows of movies, one for upcoming movies, one for the latest trends, and one for recommended movies. Users can sign in or log in to save their favourite movies in the account section.
